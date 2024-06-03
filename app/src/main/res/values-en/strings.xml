@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">A Lot of Languages</string>
+    <string name="text_firstScreen">Press the Button</string>
+    <string name="button_text">Press Me</string>
+</resources>

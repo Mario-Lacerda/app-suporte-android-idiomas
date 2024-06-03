@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">たくさんの言語</string>
+    <string name="text_firstScreen">ボタンを押す</string>
+    <string name="button_text">押して</string>
+</resources>
